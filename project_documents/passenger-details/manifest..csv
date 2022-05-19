@@ -1,0 +1,6 @@
+Flight No,Origin,Destination,Date,Time,First Name,Last Name,Sex,SeatNo,DateofBirth,DoBValidation,PersonValidation,LuggageValidation,NameValidation,BoardingPassValidation
+UA-123,San Francisco,New York,10 July 2021,02:00:00,Doyinsolami,Olaoye,M,10A,31 August 1997,False,False,False,False,False
+UA-401,France,Germany,4 October 2020,12:00:00,Sandra,Bullock,F,10B,1 April 1997,False,False,False,False,False
+UA-241,Italy,Canada,14 August 2021,10:00:00,Morgan,Freeman,M,15B,31 January 1994,False,False,False,False,False
+UA-107,Nigeria,Ghana,4 May 2021,11:00:00,Tom,Cruise,M,11A,5 March 2018,False,False,False,False,False
+UA-127,South Africa,Greece,5 June 2021,01:00:00,Angelina,Jolie,F,12B,6 June 1992,False,False,False,False,False
